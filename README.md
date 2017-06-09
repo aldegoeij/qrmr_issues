@@ -1,6 +1,6 @@
-# Public Feedback and Bug Reporting for https://qrmr.io
+# Public Feedback and Bug Reporting for [QRMR.io](https://qrmr.io)
 
-In order to collect and act on feedback and bugs for QRMR.io we created this public repo!
+In order to collect and act on feedback and bugs for **[QRMR.io](https://qrmr.io)** (https://qrmr.io) we created this public repo!
 
 * [Leave new feedback / bug](https://github.com/aldegoeij/qrmr_issues/issues/new)
 
